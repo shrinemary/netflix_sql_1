@@ -16,5 +16,5 @@ The data for this project is sourced from the Kaggle dataset:
 - Geographical Insights: The top countries and the average content releases by India highlight regional content distribution.
 - Content Categorization: Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
 ## About me 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.  
 Shrine Mary Reji
