@@ -10,6 +10,10 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
 [Click here for data set link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+## Code
+To view SQL queries [Click here](netflix_business_solutions.sql)
+To view the schema creation [Click here]()
+
 ## Findings and Conclusion
 - Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 - Common Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
